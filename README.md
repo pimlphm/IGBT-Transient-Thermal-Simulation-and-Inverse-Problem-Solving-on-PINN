@@ -260,12 +260,6 @@ jupyter notebook transient_inverse_pinn_igbt_report.ipynb
 | Gradient clipping | 1.0 (max norm) | Prevents gradient explosion |
 | Warmup epochs | 40–60 | PDE loss disabled during warmup |
 
----
-
-## Reference
-
-> Yang et al., 2025 — *A Parameterized Thermal Simulation Method Based on Physics-Informed Neural Networks*  
-> (PDF included in this repository: `Yang et al_2025_A Parameterized Thermal Simulation Method Based on Physics-Informed Neural.pdf`)
 
 ---
 
@@ -275,14 +269,3 @@ This project is released under the [MIT License](LICENSE).
 
 ---
 
-## Citation
-
-If you use this work in your research, please cite:
-
-```bibtex
-@software{PIM_IGBT_PINN_2026,
-  title  = {PIM: Physics-Informed Model for IGBT Transient Thermal Simulation},
-  year   = {2026},
-  url    = {https://github.com/<your-username>/PIM}
-}
-```
