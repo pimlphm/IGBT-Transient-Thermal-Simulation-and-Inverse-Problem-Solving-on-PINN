@@ -1,0 +1,18 @@
+{
+  "model": "data_only_seq",
+  "runtime_sec": 4.234289884567261,
+  "best_epoch": 120,
+  "surface_test_rmse_c": 3.5530476570129395,
+  "surface_test_mae_c": 2.6440014839172363,
+  "surface_test_mape_pct": 2.442585490643978,
+  "surface_test_r2": 0.9774931701972812,
+  "surface_test_peak_error_c": 8.348495483398438,
+  "full_field_rmse_c": 20.828516006469727,
+  "full_field_mae_c": 14.717190742492676,
+  "full_field_r2": -0.1899332018722999,
+  "k_ratio": 1.0,
+  "k_solder_wmk": 50.0,
+  "aging_ratio": 0.0,
+  "alpha_base": 0.3011941909790039,
+  "source_gain": 0.6065306663513184
+}
